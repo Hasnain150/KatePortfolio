@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/KatePortfolio/static/css/main.cf547461.css",
+    "main.js": "/KatePortfolio/static/js/main.aae8d81f.js",
+    "static/js/787.66b893d0.chunk.js": "/KatePortfolio/static/js/787.66b893d0.chunk.js",
+    "static/media/girl.png": "/KatePortfolio/static/media/girl.7b3d86fa537cb3ebdba6.png",
+    "static/media/pattern.png": "/KatePortfolio/static/media/pattern.4c1f05c65e462fd4916b.png",
+    "index.html": "/KatePortfolio/index.html",
+    "main.cf547461.css.map": "/KatePortfolio/static/css/main.cf547461.css.map",
+    "main.aae8d81f.js.map": "/KatePortfolio/static/js/main.aae8d81f.js.map",
+    "787.66b893d0.chunk.js.map": "/KatePortfolio/static/js/787.66b893d0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf547461.css",
+    "static/js/main.aae8d81f.js"
+  ]
+}
